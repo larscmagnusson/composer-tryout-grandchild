@@ -1,0 +1,10 @@
+{
+    "name": "larscmagnusson/composer-tryout-grandchild",
+    "authors": [
+        {
+            "name": "Lars",
+            "email": "lars.c.magnusson@gmail.com"
+        }
+    ],
+    "require": {}
+}
